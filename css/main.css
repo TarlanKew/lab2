@@ -56,6 +56,10 @@ body span {
   font-size: 14px;
 }
 
+.form .remember {
+  width: 30px;
+}
+
 .form button {
   font-family: sans-serif;
   width: 100%;
